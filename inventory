@@ -1,0 +1,8 @@
+[db]
+db.bnsdevops.online
+
+[backend]
+backend.bnsdevops.online
+
+[frontend]
+fe.bnsdevops.online
